@@ -162,10 +162,14 @@ p{
 }
 
 .img-poster img{
-    max-width: 50vw;
+    max-width: 100vw;
     box-shadow: -5px -5px 15px #FFF,  5px 5px 15px #BABECC;
 }
 
+.img-poster iframe{
+    max-width: 100vw;
+    box-shadow: -5px -5px 15px #FFF,  5px 5px 15px #BABECC;
+}
 /*.content-container section{
     transition: all 0.2s ease-in-out;
     opacity: 0.5;

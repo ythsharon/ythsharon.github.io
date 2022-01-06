@@ -48,7 +48,7 @@ nav ul{
 }
 nav li{
     display: inline-block;
-    margin-left: 4vmin;
+    margin-left: 2vmin;
     margin-top: 7vmin;
 }
 
@@ -114,9 +114,8 @@ nav a{
 }
 
 .content-container .manimate{
-    width: 1100px;
-    jdisplay: block;
-    text-align: center;
+    width: 1200px;
+
 }
 
 /*Font Style*/

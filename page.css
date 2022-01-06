@@ -141,6 +141,7 @@ h2{
 
 .title-note{
     margin-top: -2vmin;
+    line-height: 1.5vmax;
     text-shadow: 1px 1px 1px #FFF;
     font-size: 1.5vmax;
 }

@@ -22,7 +22,7 @@ body{
     display: flex;
     justify-content: left;
     align-items: flex-start;
-    font-family:'Josefin Sans', sans-serif;
+    font-family:'Poppins', sans-serif;
 }
 
 .page{
@@ -132,7 +132,7 @@ h4{
 
 p{
     color: #61677C;
-    text-align: justify;
+    text-align: left;
     /*font-size: 2.1vh;*/
     /*line-height: 4vmin;*/
     font-weight: 300;

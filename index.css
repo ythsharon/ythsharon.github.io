@@ -144,23 +144,23 @@ nav a{
 }
 
 .container .card .face .content img{
-    margin: 20px 0 0;
-    margin-left: 30px;
-    max-width: 130px;
-    /*justify-content: center;*/
-    /*align-items: center;*/
+    margin-left: 6vmin;
+    margin-top: -1vmin;
+    max-width: 140px;
+    *justify-content: start;
+    align-items: center;
 }
 
 .container .card .face .content h3{
     float: left;
     padding: 5vmin;
-    margin-top: 5vmin;
-    margin-left: 2vmin;
+    margin-top: 2vmin;
+    margin-left: 1vmin;
     color: #4E5263;
     line-height: 5vmin;
     text-shadow: 1px 1px #FFF/*, -1px -1px #444*/;
     text-align: left;
-    font-size: 1.6vmax;
+    font-size: 1.7vmax;
     font-weight: 350;
 }
 
@@ -168,11 +168,11 @@ nav a{
     float: left;
     padding: 5vmin;
     margin-top: -10vmin;
-    margin-left: 2vmin;
+    margin-left: 1vmin;
     color: #818596;
     line-height: 4vmin;
     /*text-shadow: 1px 1px #FFF/*, -1px -1px #444*/;*/
-    text-align: center;
+    text-align: left;
     font-size: 1.4vmax;
     font-weight: 300;
 

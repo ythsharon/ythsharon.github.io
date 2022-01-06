@@ -115,7 +115,9 @@ nav a{
 }
 
 .content-container .manimate{
-    width: 1200px;
+    max-width: 100%;
+    display: block;
+    text-align: center;
 
 }
 

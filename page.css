@@ -108,9 +108,8 @@ nav a{
 
 .content-container img{
     float: right;
-    margin-left: 50px;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-left: 3vmin;
+    margin-bottom: 5vmin;
 
 
 }

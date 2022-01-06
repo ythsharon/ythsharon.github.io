@@ -46,7 +46,7 @@ nav ul{
 }
 nav li{
     display: inline-block;
-    /*margin-left: 1vmin;*/
+    /*margin-left: 0.3vmin;*/
     margin-top: 7vmin;
 }
 
@@ -55,7 +55,7 @@ nav a{
 }
 
 .nav-right a{
-    font-size: 2.2vmin;
+    font-size: 1vmax;
     text-decoration: none;
     text-transform: uppercase;
     text-shadow: 1px 1px 1px #FFF;
@@ -63,12 +63,14 @@ nav a{
     transition: all 0.2s ease-in-out;
     padding: 1vmin;
     padding-top: 1.7vmin;
+    margin-left: 1vmin;
     cursor: pointer;
 }
 
 .nav-right a:hover{
     box-shadow: -2px -2px 5px #FFF, 2px 2px 5px #BABECC;
-    opacity: 0.7;
+    opacity: 0.8;
+   
 }
 
 .nav-right a:active{
@@ -78,12 +80,12 @@ nav a{
 
 .nav-left a{
     float: left;
-    position: relative;
+
     text-decoration: none;
     text-transform: uppercase;
     margin-top: 5vmin;
     margin-left: 10vmin;
-    font-size: 2.5vmin;
+    font-size: 1.4vmax;
     text-shadow: 1px 1px #FFF
 }
 

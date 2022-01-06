@@ -58,7 +58,7 @@ nav a{
 }
 
 .nav-right a{
-    font-size: 2.2vmin;
+    font-size: 1vmax;
     text-decoration: none;
     text-transform: uppercase;
     text-shadow: 1px 1px 1px #FFF;
@@ -66,6 +66,7 @@ nav a{
     transition: all 0.2s ease-in-out;
     padding: 1vmin;
     padding-top: 1.7vmin;
+    margin-left: 1vmin;
     cursor: pointer;
 }
 
@@ -87,7 +88,7 @@ nav a{
     text-transform: uppercase;
     margin-top: 5vmin;
     margin-left: 10vmin;
-    font-size: 2.5vmin;
+    font-size: 1.4vmax;
     text-shadow: 1px 1px #FFF
 }
 
@@ -98,8 +99,8 @@ nav a{
     min-height: 100vh;
     position: relative;
     margin-top: 4vmin;
-    margin-left: 10vmin;
-    margin-right: 10vmin;
+    margin-left: 15vmin;
+    margin-right: 15vmin;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -126,7 +127,7 @@ nav a{
 /*Font Style*/
 h2{
     text-shadow: 1px 1px 1px #FFF;
-    font-size: 3vh;
+    font-size: 2vmax;
     /*font-size: 3.5vh;*/
 }
 
@@ -135,7 +136,12 @@ h2{
 .title-note{
     margin-top: -2vmin;
     text-shadow: 1px 1px 1px #FFF;
-    font-size: 2.5vh;
+    font-size: 1.5vmax;
+}
+
+h3{
+    /*font-size: 2.5h;*/
+    line-height: 1.5vmax;
 }
 
 h4{
@@ -146,13 +152,13 @@ h4{
 p{
     color: #61677C;
     text-align: left;
-    /*font-size: 2.1vh;*/
+    font-size: 1.2vmax;
     /*line-height: 4vmin;*/
     font-weight: 300;
 }
 
 .note{
-    font-size: 1.7vmin;
+    font-size: 1vmax;
     margin-top: -1.5vmin;
     color: #9A9DAB;
 }

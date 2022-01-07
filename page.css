@@ -131,6 +131,13 @@ nav a{
 
 }
 
+.content-container .carpic{
+    width: 60vw;
+    display: block;
+    text-align: center;
+
+}
+
 /*Font Style*/
 h2{
     text-shadow: 1px 1px 1px #FFF;

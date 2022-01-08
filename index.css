@@ -154,13 +154,13 @@ nav a{
 .container .card .face .content h3{
     float: left;
     padding: 5vmin;
-    margin-top: 2vh;
+    margin-top: 2vmin;
     margin-left: 1vmin;
     color: #4E5263;
     line-height: 5vmin;
     text-shadow: 1px 1px #FFF/*, -1px -1px #444*/;
     text-align: left;
-    font-size: 2.8vh;
+    font-size: 1.7vmax;
     font-weight: 350;
 }
 
@@ -173,7 +173,7 @@ nav a{
     line-height: 4vmin;
     /*text-shadow: 1px 1px #FFF/*, -1px -1px #444*/;*/
     text-align: left;
-    font-size: 2.5vh;
+    font-size: 1.4vmax;
     font-weight: 300;
 
 }

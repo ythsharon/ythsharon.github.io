@@ -141,16 +141,14 @@ nav a{
 /*Font Style*/
 h2{
     text-shadow: 1px 1px 1px #FFF;
-    font-size: 1.6vmax;
     /*font-size: 3.5vh;*/
 }
 
 
 
 .title-note{
-    margin-top: -2vmin;
     text-shadow: 1px 1px 1px #FFF;
-    font-size: 1.5vmax;
+    line-height: 3vmax;
 }
 
 h3{
@@ -166,7 +164,6 @@ h4{
 p{
     color: #61677C;
     text-align: left;
-    font-size: 1.2vmax;
     /*line-height: 4vmin;*/
     font-weight: 300;
 }

@@ -122,7 +122,7 @@ nav a{
     align-items: center;
     box-shadow: -7px -7px 15px #FFF,  7px 7px 15px #BABECC;
     transition: all 0.2s ease-in-out;
-    margin: 10vmin 0 0;
+    margin: 15vmin 0 0;
 
 }
 
@@ -154,13 +154,13 @@ nav a{
 .container .card .face .content h3{
     float: left;
     padding: 5vmin;
-    margin-top: 2vmin;
+    margin-top: 2vh;
     margin-left: 1vmin;
     color: #4E5263;
     line-height: 5vmin;
     text-shadow: 1px 1px #FFF/*, -1px -1px #444*/;
     text-align: left;
-    /*font-size: 1.7vmax;*/
+    font-size: 2.8vh;
     font-weight: 350;
 }
 
@@ -173,7 +173,7 @@ nav a{
     line-height: 4vmin;
     /*text-shadow: 1px 1px #FFF/*, -1px -1px #444*/;*/
     text-align: left;
-    /*font-size: 1.4vmax;*/
+    font-size: 2.5vh;
     font-weight: 300;
 
 }
